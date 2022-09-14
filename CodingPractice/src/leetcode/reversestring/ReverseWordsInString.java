@@ -1,6 +1,4 @@
-package reversestring;
-
-import java.util.Arrays;
+package geeksofgeek.reversestring;
 
 public class ReverseWordsInString {
     public static void main(String[] args) {

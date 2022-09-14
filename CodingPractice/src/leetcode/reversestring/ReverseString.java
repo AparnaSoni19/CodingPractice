@@ -1,4 +1,4 @@
-package reversestring;
+package geeksofgeek.reversestring;
 
 import java.util.Arrays;
 

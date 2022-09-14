@@ -1,4 +1,4 @@
-package reversestring;
+package geeksofgeek.reversestring;
 
 public class ReverseWordsInString2 {
     public static void main(String[] args) {

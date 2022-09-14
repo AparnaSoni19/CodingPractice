@@ -1,6 +1,4 @@
-package palindrome;
-
-import java.util.Locale;
+package geeksofgeek.palindrome;
 
 public class ValidPalindrome {
     public static void main(String[] args) {
@@ -9,7 +7,7 @@ public class ValidPalindrome {
         {
             System.out.printf("Palindrome");
         }else {
-            System.out.printf("Not a palindrome");
+            System.out.printf("Not a geeksofgeek.palindrome");
         }
     }
     public boolean isPalindrome(String s) {

@@ -1,4 +1,4 @@
-package palindrome;
+package geeksofgeek.palindrome;
 
 public class StringPalandrome {
     public static void main(String[] args) {

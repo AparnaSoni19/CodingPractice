@@ -1,4 +1,4 @@
-package msoft.twosum;
+package twosum;
 
 import java.util.Arrays;
 

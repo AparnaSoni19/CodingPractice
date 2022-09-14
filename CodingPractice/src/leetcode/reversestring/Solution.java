@@ -1,4 +1,4 @@
-package reversestring;
+package geeksofgeek.reversestring;
 
 class Solution {
     public static void main(String[] args) {
