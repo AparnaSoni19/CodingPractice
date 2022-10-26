@@ -1,4 +1,4 @@
-package java8programpractice;
+package geeksofgeek.java8programpractice;
 
 import java.util.ArrayList;
 import java.util.Arrays;

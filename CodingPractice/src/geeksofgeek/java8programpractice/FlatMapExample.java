@@ -1,4 +1,4 @@
-package java8programpractice;
+package geeksofgeek.java8programpractice;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -14,7 +14,5 @@ public class FlatMapExample {
         System.out.println(listNumber3.stream().
                 flatMap(list->list.stream()).
                 collect(Collectors.toList()));
-
-
     }
 }

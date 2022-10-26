@@ -1,4 +1,4 @@
-package java8programpractice;
+package geeksofgeek.java8programpractice;
 
 public class Employee {
     private int id;

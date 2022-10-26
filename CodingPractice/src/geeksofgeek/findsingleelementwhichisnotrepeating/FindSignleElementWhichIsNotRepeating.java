@@ -1,4 +1,4 @@
-package findsingleelementwhichisnotrepeating;
+package geeksofgeek.findsingleelementwhichisnotrepeating;
 
 import java.util.Arrays;
 
